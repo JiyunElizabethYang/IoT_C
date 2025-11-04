@@ -5,7 +5,7 @@
 ----
 
 ## Key Features
-### - Fetch and parse weather data in XML format from the KMA API
-### - Simulate GPS coordinates for location-based weather display
-### - Map weather data to virtual sensors
-### - Visualize all information on the Serial Monitor
+#### - Fetch and parse weather data in XML format from the KMA API
+#### - Simulate GPS coordinates for location-based weather display
+#### - Map weather data to virtual sensors
+#### - Visualize all information on the Serial Monitor
