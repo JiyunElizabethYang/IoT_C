@@ -9,3 +9,6 @@
 #### - Simulate GPS coordinates for location-based weather display
 #### - Map weather data to virtual sensors
 #### - Visualize all information on the Serial Monitor
+
+### 🌍 Live Demo
+👉 **[IoT-C Project Homepage](https://jiyunelizabethyang.github.io/IoT_C/)**  
